@@ -1,4 +1,8 @@
-
+/*Create a class Book to manage book records in a library.The class should have the following private data members: bookID (int).title(string).price(float).
+Implement the following
+a) Default constructor to initialize default values.
+b) Parameterized constructor to initialize with user-provided values.
+c) Destructor to display a message when the object is destroyed.*/
 
 
 #include <iostream>
@@ -53,3 +57,21 @@ public:
    b2.display();
    return 0;   
  }
+
+
+/*
+-----output-----
+
+Default constructor is called
+
+Book ID is:1
+Book title is:letuscpp
+Book price is:100
+parameterised constructor is called
+Book ID is:2
+Book title is:data structure
+Book price is:200
+destuctor is called! object is destroyed
+destuctor is called! object is destroyed.
+
+*/
