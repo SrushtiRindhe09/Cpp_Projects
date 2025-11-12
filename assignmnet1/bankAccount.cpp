@@ -1,4 +1,6 @@
-/*Create a class Bank Account with private data members for account number, name, and balance. Use public methods for deposit, withdraw, and display.Demonstrate data abstraction and information hiding.*/
+/*Create a class Bank Account with private data members for account number, name, and balance. 
+Use public methods for deposit, withdraw, and display.Demonstrate data abstraction and information 
+hiding.*/
 
 #include <iostream>
 #include <string>
